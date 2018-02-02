@@ -21,3 +21,7 @@ To run the node:
 source devel/setup.bash
 rosrun using_markers forward_Chain
 ```
+
+## Visualization:
+The final sphere based hand pose model can be visualized by rviz. 
+Or just check the project final report:)
