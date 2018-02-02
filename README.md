@@ -10,15 +10,16 @@ This project implementes human hand pose estimation model and evaluation loss fu
 ## Commands to run the code:
 Before running the code please load relative parameters
 
-```sh
 For depth image:
+```sh
 rosparam load param.yaml
-
+```sh
 For static hand pose:
+```sh
 rosparam load hand_param.yaml
-
+```sh
 To run the node:
-source devel/setup.bash
+```sh
 rosrun using_markers forward_Chain
 ```
 
