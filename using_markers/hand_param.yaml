@@ -1,0 +1,80 @@
+/filepath_hand: /home/hao/Markers/src/using_markers/pose_1_0000001
+
+/adj: 0.0299
+
+/ori_x: -0.1461 
+/ori_y:  0.1161
+/ori_z:  0.7628 
+  
+/roll: -1.5546 
+/pitch: -0.0052
+/yaw: -0.0580  
+  #yaw :-0.5080
+
+
+
+
+
+
+
+
+
+
+
+/middle_3: -0.1034
+##-0.1034 
+
+
+/little_3: -0.0879
+#-0.0879
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/thumb_1: -0.1989
+/thumb_2: -0.1739
+/thumb_3: 0.4177 
+/thumb_4: 0.56
+/thumb_5: 0.1302
+
+
+
+/index_1: 0.0623
+/index_2: -0.1334
+/index_3: 0.0813
+/index_4: 0.2643
+/index_5: -0.0139
+
+
+
+
+/middle_1: 0.1678
+/middle_2: 0.0047
+
+/middle_4: 0.4552
+/middle_5: 0.0494
+
+
+/ring_1: 0.1524
+/ring_2: 0.0443
+/ring_3: 0.0283
+/ring_4: 0.0921
+/ring_5: 0.296
+
+
+/little_1: 0.0462
+/little_2: 0.2036
+
+/little_4: 0.2893
+/little_5: 0.0805
+
